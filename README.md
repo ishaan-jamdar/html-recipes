@@ -1,2 +1,1 @@
-HTML website which contains food recipes
-Uses links, images, lists, etc. in HTML
+HTML website which contains food recipes. Made using links, images, lists, etc. in HTML.
