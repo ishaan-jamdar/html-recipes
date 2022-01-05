@@ -1,2 +1,2 @@
 # html-recipes
-Website which contains food recipes. Made using various basic elements in HTML.
+Website which contains food recipes. Made with various basic elements in HTML.
