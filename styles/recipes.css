@@ -1,0 +1,9 @@
+body {
+  background-color: hsl(200, 100%, 90%);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#cake-image {
+  height: auto;
+  width: 400px;
+}
